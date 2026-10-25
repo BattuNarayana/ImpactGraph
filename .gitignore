@@ -1,0 +1,50 @@
+
+# Cloned repositories and generated application data
+/backend/data/
+
+# Java / Maven
+**/target/
+
+# Node.js / Next.js
+**/node_modules/
+**/.next/
+**/out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Cloned repositories and generated application data
+/backend/data/
+
+# Java / Maven
+**/target/
+
+# Node.js / Next.js
+**/node_modules/
+**/.next/
+**/out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
